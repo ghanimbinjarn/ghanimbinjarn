@@ -21,4 +21,4 @@ IT Security & Forensics and enterprise experience in telecommunications and bank
 - AccessData Certified Examiner (ACE)
 
 ### 🌍 Connect
-- LinkedIn: [https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/in/ghanim-bakhit-bin-jarn-57758b10a/)
+- LinkedIn: https://www.linkedin.com/in/ghanim-bakhit-bin-jarn-57758b10a/
