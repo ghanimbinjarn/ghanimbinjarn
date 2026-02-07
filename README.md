@@ -1,16 +1,24 @@
-## Hi there 👋
+## 👋 Hi, I'm Ghanim Bakhit Binajrn
 
-<!--
-**ghanimbinjarn/ghanimbinjarn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a UAE-based Cybersecurity and Technology Risk professional with a background in
+IT Security & Forensics and enterprise experience in telecommunications and banking.
 
-Here are some ideas to get you started:
+### 🔐 Areas of Interest
+- Cybersecurity Operations & Incident Analysis
+- Technology Risk & IT Controls (GRC)
+- Vulnerability Assessment & Security Testing
+- Enterprise IT Systems & Risk Management
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tools & Technologies
+- SIEM: IBM QRadar
+- Vulnerability Tools: Nessus, AppScan
+- OS: Windows Server, Linux (Kali)
+- Networking: TCP/IP, firewalls, routing basics
+
+### 📄 Certifications
+- CompTIA Security+
+- CCNA
+- AccessData Certified Examiner (ACE)
+
+### 🌍 Connect
+- LinkedIn: [https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/in/ghanim-bakhit-bin-jarn-57758b10a/)
